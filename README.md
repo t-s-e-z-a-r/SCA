@@ -13,7 +13,7 @@ A RESTful API application for managing spy cats, their missions, and targets. Bu
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/t-s-e-z-a-r/SCA.git
    cd SCA
    ```
 
@@ -74,5 +74,6 @@ A RESTful API application for managing spy cats, their missions, and targets. Bu
 ## Postman Collection
 
 A Postman collection is available with all endpoints pre-configured.
-https://kredo-rd.postman.co/workspace/New-Team-Workspace~ef4d2d98-a2ce-4cb7-ab9a-b8c772d59eda/collection/28347427-b3bbdb1a-24b9-4441-97f8-14d5d7346328?action=share&source=copy-link&creator=28347427
+
+[Postman Collection](https://kredo-rd.postman.co/workspace/New-Team-Workspace~ef4d2d98-a2ce-4cb7-ab9a-b8c772d59eda/collection/28347427-b3bbdb1a-24b9-4441-97f8-14d5d7346328?action=share&source=copy-link&creator=28347427)
 
